@@ -4,13 +4,13 @@ card_product = [
     "target": "#pro01",
     "target_id": "pro01",
     "data": {
-    "title": "酯類全合成機油15W40",
-    "img": "./img/product/15W40/1.jpg"
+    "title": "防水噴霧",
+    "img": "./img/product/Water.jpg"
   },
   "data_intro": {
-    "title": "德特15W40四行程全合成酯基引擎機油",
-    "img": "./img/product/15W40/1.jpg",
-    "intro": "4T全合成 15W40\n符合規範:API SN JASO MA-II\n建議售價400\n說明：\n1.以全酯基及PAO全合成基礎油及耐高溫高抗氧化添加劑調配。\n2.含特殊引擎保護配方，強化油膜降低引擎磨損。\n3.低溫容易啟動，全時保護引擎，省油又有力。\n4.特殊高抗剪切黏度向上劑，可避免引擎馬力衰退無力。\n適用：適用各廠牌機車全車系、噴射引擎及陶瓷汽缸引擎。\n包裝：1Liter"
+    "title": "防水噴霧",
+    "img": "./img/product/Water.jpg",
+    "intro": "適用範圍；布鞋、帽子、衣物、包包等布料材質物品\n特性說明：20分鐘具有撥水效果，保持源材質的透氣性、舒適性與柔軟性，持久度高\n使用方法：1.清潔物體表面，將本產品均勻搖晃，以10-20公分距離噴灑於物體上，等待乾燥即可有效防"
   }
 },
     {
@@ -18,13 +18,13 @@ card_product = [
       "target": "#pro02",
       "target_id": "pro02",
       "data": {
-      "title": "酯類全合成機油10W50",
-      "img": "./img/product/10W50/1.jpg"
-    },
-    "data_intro": {
-      "title": "德特10W50四行程全合成酯基引擎機油",
-      "img": "./img/product/10W50/1.jpg",
-      "intro": "4T全合成 10W50\n符合規範:API SN JASO MA-II\n建議售價400\n說明：\n1.以全酯基及PAO全合成基礎油及耐高溫高抗氧化添加劑調配。\n2.含特殊引擎保護配方，強化油膜降低引擎磨損。\n3.低溫容易啟動，全時保護引擎，省油又有力。\n4.特殊高抗剪切黏度向上劑，可避免引擎馬力衰退無力。\n適用：適用各廠牌機車全車系、噴射引擎及陶瓷汽缸引擎。\n包裝：1Liter"
+      "title": "即將上市",
+      "img": "./img/product/Coming.jpg"
+      },
+      "data_intro": {
+      "intro_title": "敬請期待",
+      "intro_img":"./img/product/Coming.jpg",
+      "intro": ""
     }
 },
     {
